@@ -35,7 +35,7 @@
 
 
 - [Android](./android/README.md)
-  - [Android系统架构](android/arch.md)
+  - [Android系统架构](study/架构/手把手带你深入分析 Handler机制源码.md)
   - [Activity && Service生命周期](android/lifecicle.md)
   - [Activity四种启动模式](android/launchmod.md)
   - [ListView原理及优化](android/listview.md)
