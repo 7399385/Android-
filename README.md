@@ -2,7 +2,7 @@
 
 # 2019年Android 最新面试题
 
-![面试](E:\CSDN学院\动脑出品面试题\面试.png)
+![面试](img\面试.png)
 
 # Android 面试指南
 
