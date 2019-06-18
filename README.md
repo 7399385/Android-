@@ -2,7 +2,7 @@
 
 # Android 高级面试
 
-### ![面试](E:\CSDN学院\动脑出品面试题\面试.png)写给Android的一封信
+### ![面试](img/面试.png)写给Android的一封信
 
 最近半年，常常有人问我 “Android就业市场究竟怎么样，我还能不能坚持下去 ?”
 
@@ -25,8 +25,8 @@
 ## ---------------------预习专区-----------------------
 
 - [Android预习专题](./android/README.md)
-  - [手把手带你深入分析 Handler](study/架构/手把手带你深入分析 Handler机制源码.md)
-  - [Android 消息机制——你真的了解Handler？](./study/架构/Android 消息机制——你真的了解Handler？.md)
+  - [手把手带你深入分析 Handler](study/framework/Android 消息机制.md)
+  - [Android 消息机制——你真的了解Handler？](./study/framework/Handler机制源码.md)
 
 
 
