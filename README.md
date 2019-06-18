@@ -25,7 +25,7 @@
 ## ---------------------预习专区-----------------------
 
 - [Android预习专题](./android/README.md)
-  - [手把手带你深入分析 Handler](study/framework/Android 消息机制.md)
+  - [手把手带你深入分析 Handler](study/framework/Android消息机制.md)
   - [Android 消息机制——你真的了解Handler？](./study/framework/Handler机制源码.md)
 
 
